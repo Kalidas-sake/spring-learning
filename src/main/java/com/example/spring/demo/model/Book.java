@@ -1,4 +1,4 @@
-package com.example.spring.main.model;
+package com.example.spring.demo.model;
 
 public class Book {
 

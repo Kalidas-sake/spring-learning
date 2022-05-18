@@ -1,4 +1,4 @@
-package com.example.spring.main.controller;
+package com.example.spring.demo.controller;
 
 import java.util.Arrays;
 import java.util.List;
@@ -6,7 +6,7 @@ import java.util.List;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.example.spring.main.model.Book;
+import com.example.spring.demo.model.Book;
 
 @RestController
 public class BooksController {
